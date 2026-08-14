@@ -1,0 +1,1130 @@
+{
+  "metadata": {
+    "source": "광주광역시 동구_그늘막설치현황",
+    "sourceUrl": "https://www.data.go.kr/data/15103022/fileData.do",
+    "collectedAt": "2026-08-14T07:03:12.260Z",
+    "baseDate": "2026-03-25",
+    "rawRecordCount": 107,
+    "locationCount": 101,
+    "note": "동일한 위도·경도의 설치 및 교체 이력은 하나의 위치로 통합했습니다."
+  },
+  "facilities": [
+    {
+      "dong": "계림1동",
+      "address": "계림동 101",
+      "latitude": 35.162312,
+      "longitude": 126.919432,
+      "managementIds": [
+        "계림1동-9"
+      ],
+      "installedAt": "2025-10-11",
+      "latestRecordAt": "2025-10-11"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동 330-1",
+      "latitude": 35.158912,
+      "longitude": 126.922143,
+      "managementIds": [
+        "계림1동-6"
+      ],
+      "installedAt": "2019-05-05",
+      "latestRecordAt": "2019-05-05"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동 485-8",
+      "latitude": 35.156712,
+      "longitude": 126.919821,
+      "managementIds": [
+        "계림1동-4"
+      ],
+      "installedAt": "2025-08-11",
+      "latestRecordAt": "2025-08-11"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동 560-19",
+      "latitude": 35.158123,
+      "longitude": 126.921451,
+      "managementIds": [
+        "계림1동-8"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동 928",
+      "latitude": 35.160432,
+      "longitude": 126.923142,
+      "managementIds": [
+        "계림1동-7"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동 941",
+      "latitude": 35.161234,
+      "longitude": 126.920123,
+      "managementIds": [
+        "계림1동-5"
+      ],
+      "installedAt": "2019-05-05",
+      "latestRecordAt": "2019-05-05"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동 95-2",
+      "latitude": 35.160123,
+      "longitude": 126.918921,
+      "managementIds": [
+        "계림1동-2"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "계림1동",
+      "address": "계림동558-7",
+      "latitude": 35.157812,
+      "longitude": 126.921123,
+      "managementIds": [
+        "계림1동-1"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "계림1동",
+      "address": "중앙로329",
+      "latitude": 35.159432,
+      "longitude": 126.917543,
+      "managementIds": [
+        "계림1동-3"
+      ],
+      "installedAt": "2020-08-06",
+      "latestRecordAt": "2020-08-06"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동 1464",
+      "latitude": 35.156712,
+      "longitude": 126.929872,
+      "managementIds": [
+        "계림2동-5"
+      ],
+      "installedAt": "2021-07-01",
+      "latestRecordAt": "2021-07-01"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동 1842",
+      "latitude": 35.158123,
+      "longitude": 126.931451,
+      "managementIds": [
+        "계림2동-8"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동 1872",
+      "latitude": 35.159432,
+      "longitude": 126.931234,
+      "managementIds": [
+        "계림2동-6"
+      ],
+      "installedAt": "2023-08-14",
+      "latestRecordAt": "2023-08-14"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동 242-23",
+      "latitude": 35.154123,
+      "longitude": 126.922145,
+      "managementIds": [
+        "계림2동-4"
+      ],
+      "installedAt": "2019-05-05",
+      "latestRecordAt": "2019-05-05"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동1032",
+      "latitude": 35.159123,
+      "longitude": 126.927213,
+      "managementIds": [
+        "계림2동-1"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동1619",
+      "latitude": 35.157812,
+      "longitude": 126.930123,
+      "managementIds": [
+        "계림2동-3",
+        "계림2동-7"
+      ],
+      "installedAt": "2020-08-06",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "계림2동",
+      "address": "계림동594-2",
+      "latitude": 35.155432,
+      "longitude": 126.924821,
+      "managementIds": [
+        "계림2동-2"
+      ],
+      "installedAt": "2020-08-06",
+      "latestRecordAt": "2020-08-06"
+    },
+    {
+      "dong": "동명동",
+      "address": "동명동 118-19",
+      "latitude": 35.150732,
+      "longitude": 126.924821,
+      "managementIds": [
+        "동명동-1"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "동명동",
+      "address": "동명동 157-17",
+      "latitude": 35.151823,
+      "longitude": 126.927432,
+      "managementIds": [
+        "동명동-8"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "동명동",
+      "address": "동명동 189-8",
+      "latitude": 35.152143,
+      "longitude": 126.926712,
+      "managementIds": [
+        "동명동-6"
+      ],
+      "installedAt": "2021-09-01",
+      "latestRecordAt": "2021-09-01"
+    },
+    {
+      "dong": "동명동",
+      "address": "동명동 267-3",
+      "latitude": 35.149821,
+      "longitude": 126.928123,
+      "managementIds": [
+        "동명동-3"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "동명동",
+      "address": "동명동 291-19",
+      "latitude": 35.148912,
+      "longitude": 126.929872,
+      "managementIds": [
+        "동명동-4"
+      ],
+      "installedAt": "2020-08-06",
+      "latestRecordAt": "2020-08-06"
+    },
+    {
+      "dong": "동명동",
+      "address": "동명동103-2",
+      "latitude": 35.151243,
+      "longitude": 126.925432,
+      "managementIds": [
+        "동명동-2"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "동명동",
+      "address": "장동 87-12",
+      "latitude": 35.150231,
+      "longitude": 126.922145,
+      "managementIds": [
+        "동명동-5"
+      ],
+      "installedAt": "2021-07-14",
+      "latestRecordAt": "2021-07-14"
+    },
+    {
+      "dong": "동명동",
+      "address": "지산동 654-12",
+      "latitude": 35.145612,
+      "longitude": 126.932451,
+      "managementIds": [
+        "동명동-7"
+      ],
+      "installedAt": "2021-09-01",
+      "latestRecordAt": "2021-09-01"
+    },
+    {
+      "dong": "산수1동",
+      "address": "산수동 522-10",
+      "latitude": 35.154812,
+      "longitude": 126.927142,
+      "managementIds": [
+        "산수1동-8"
+      ],
+      "installedAt": "2025-10-11",
+      "latestRecordAt": "2025-10-11"
+    },
+    {
+      "dong": "산수1동",
+      "address": "산수동 561-1",
+      "latitude": 35.155543,
+      "longitude": 126.929512,
+      "managementIds": [
+        "산수1동-1",
+        "산수1동-4",
+        "산수1동-5"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2021-07-14"
+    },
+    {
+      "dong": "산수1동",
+      "address": "산수동380-14",
+      "latitude": 35.152812,
+      "longitude": 126.931234,
+      "managementIds": [
+        "산수1동-7"
+      ],
+      "installedAt": "2024-07-23",
+      "latestRecordAt": "2024-07-23"
+    },
+    {
+      "dong": "산수1동",
+      "address": "산수동390-32",
+      "latitude": 35.153432,
+      "longitude": 126.932145,
+      "managementIds": [
+        "산수1동-6"
+      ],
+      "installedAt": "2024-07-23",
+      "latestRecordAt": "2024-07-23"
+    },
+    {
+      "dong": "산수1동",
+      "address": "산수동521-57",
+      "latitude": 35.154123,
+      "longitude": 126.928432,
+      "managementIds": [
+        "산수1동-2"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "산수1동",
+      "address": "산수동543-11",
+      "latitude": 35.153912,
+      "longitude": 126.929123,
+      "managementIds": [
+        "산수1동-3"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "산수2동",
+      "address": "산수동 58-33",
+      "latitude": 35.157213,
+      "longitude": 126.934412,
+      "managementIds": [
+        "산수2동-2"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "산수2동",
+      "address": "산수동536-19",
+      "latitude": 35.153123,
+      "longitude": 126.934123,
+      "managementIds": [
+        "산수2동-1"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "산수2동",
+      "address": "산수동89-12",
+      "latitude": 35.158912,
+      "longitude": 126.935123,
+      "managementIds": [
+        "산수2동-3"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "서남동",
+      "address": "광산동 116",
+      "latitude": 35.146543,
+      "longitude": 126.919812,
+      "managementIds": [
+        "서남동-5",
+        "서남동-10"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "서남동",
+      "address": "광산동 116-2",
+      "latitude": 35.146712,
+      "longitude": 126.919643,
+      "managementIds": [
+        "서남동-11"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "서남동",
+      "address": "광산동 7-16",
+      "latitude": 35.147123,
+      "longitude": 126.918921,
+      "managementIds": [
+        "서남동-6"
+      ],
+      "installedAt": "2020-03-27",
+      "latestRecordAt": "2020-03-27"
+    },
+    {
+      "dong": "서남동",
+      "address": "남동 4-9",
+      "latitude": 35.144812,
+      "longitude": 126.918123,
+      "managementIds": [
+        "서남동-4"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "서남동",
+      "address": "남동 73-2",
+      "latitude": 35.143812,
+      "longitude": 126.917452,
+      "managementIds": [
+        "서남동-12"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "서남동",
+      "address": "서석동 435-3",
+      "latitude": 35.143123,
+      "longitude": 126.926145,
+      "managementIds": [
+        "서남동-9"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "서남동",
+      "address": "서석동 466-16",
+      "latitude": 35.142123,
+      "longitude": 126.927432,
+      "managementIds": [
+        "서남동-8"
+      ],
+      "installedAt": "2020-03-27",
+      "latestRecordAt": "2020-03-27"
+    },
+    {
+      "dong": "서남동",
+      "address": "서석동 61-3",
+      "latitude": 35.146123,
+      "longitude": 126.920981,
+      "managementIds": [
+        "서남동-3"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "서남동",
+      "address": "서석동 91-38",
+      "latitude": 35.145912,
+      "longitude": 126.923145,
+      "managementIds": [
+        "서남동-7"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "서남동",
+      "address": "서석동52-5",
+      "latitude": 35.145812,
+      "longitude": 126.921243,
+      "managementIds": [
+        "서남동-2"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "서남동",
+      "address": "학동 475-1",
+      "latitude": 35.141234,
+      "longitude": 126.925123,
+      "managementIds": [
+        "서남동-1"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "지산1동",
+      "address": "지산동 394-8",
+      "latitude": 35.149123,
+      "longitude": 126.932145,
+      "managementIds": [
+        "지산1동-3"
+      ],
+      "installedAt": "2021-07-01",
+      "latestRecordAt": "2021-07-01"
+    },
+    {
+      "dong": "지산1동",
+      "address": "지산동 724-2",
+      "latitude": 35.147812,
+      "longitude": 126.934123,
+      "managementIds": [
+        "지산1동-2"
+      ],
+      "installedAt": "2021-07-14",
+      "latestRecordAt": "2021-07-14"
+    },
+    {
+      "dong": "지산1동",
+      "address": "지산동719-47",
+      "latitude": 35.148123,
+      "longitude": 126.933145,
+      "managementIds": [
+        "지산1동-1"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "지원1동",
+      "address": "동구 남문로 589",
+      "latitude": 35.125123,
+      "longitude": 126.941543,
+      "managementIds": [
+        "지원1동-3",
+        "지원1동-4"
+      ],
+      "installedAt": "2022-09-09",
+      "latestRecordAt": "2023-08-14"
+    },
+    {
+      "dong": "지원1동",
+      "address": "소태동 524-2",
+      "latitude": 35.127812,
+      "longitude": 126.939213,
+      "managementIds": [
+        "지원1동-1"
+      ],
+      "installedAt": "2020-03-27",
+      "latestRecordAt": "2020-03-27"
+    },
+    {
+      "dong": "지원1동",
+      "address": "소태동 722-70",
+      "latitude": 35.124812,
+      "longitude": 126.938123,
+      "managementIds": [
+        "지원1동-5"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원1동",
+      "address": "소태동 855-26",
+      "latitude": 35.126123,
+      "longitude": 126.940981,
+      "managementIds": [
+        "지원1동-2"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "지원2동",
+      "address": "내남동 298",
+      "latitude": 35.108912,
+      "longitude": 126.948123,
+      "managementIds": [
+        "지원2동-15"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "내남동 895",
+      "latitude": 35.107812,
+      "longitude": 126.949123,
+      "managementIds": [
+        "지원2동-19"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "내남동 896",
+      "latitude": 35.107432,
+      "longitude": 126.949432,
+      "managementIds": [
+        "지원2동-21"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "선교동 227-1",
+      "latitude": 35.102143,
+      "longitude": 126.952145,
+      "managementIds": [
+        "지원2동-13"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "지원2동",
+      "address": "선교동 251-3",
+      "latitude": 35.101234,
+      "longitude": 126.953412,
+      "managementIds": [
+        "지원2동-12"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "지원2동",
+      "address": "소태동 664-1",
+      "latitude": 35.123123,
+      "longitude": 126.936712,
+      "managementIds": [
+        "지원2동-3"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 167",
+      "latitude": 35.122143,
+      "longitude": 126.921453,
+      "managementIds": [
+        "지원2동-9"
+      ],
+      "installedAt": "2019-07-07",
+      "latestRecordAt": "2019-07-07"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 175-1",
+      "latitude": 35.121823,
+      "longitude": 126.922143,
+      "managementIds": [
+        "지원2동-17"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 226",
+      "latitude": 35.121243,
+      "longitude": 126.923145,
+      "managementIds": [
+        "지원2동-7"
+      ],
+      "installedAt": "2020-08-06",
+      "latestRecordAt": "2020-08-06"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 297-17",
+      "latitude": 35.120712,
+      "longitude": 126.923872,
+      "managementIds": [
+        "지원2동-16"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 326",
+      "latitude": 35.120432,
+      "longitude": 126.922432,
+      "managementIds": [
+        "지원2동-14"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 669",
+      "latitude": 35.121123,
+      "longitude": 126.926432,
+      "managementIds": [
+        "지원2동-20"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 717",
+      "latitude": 35.120432,
+      "longitude": 126.926712,
+      "managementIds": [
+        "지원2동-10"
+      ],
+      "installedAt": "2023-08-14",
+      "latestRecordAt": "2023-08-14"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 727",
+      "latitude": 35.119812,
+      "longitude": 126.924812,
+      "managementIds": [
+        "지원2동-8"
+      ],
+      "installedAt": "2019-07-07",
+      "latestRecordAt": "2019-07-07"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 733",
+      "latitude": 35.119123,
+      "longitude": 126.925432,
+      "managementIds": [
+        "지원2동-6",
+        "지원2동-11"
+      ],
+      "installedAt": "2020-08-06",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 734",
+      "latitude": 35.118912,
+      "longitude": 126.925643,
+      "managementIds": [
+        "지원2동-4"
+      ],
+      "installedAt": "2020-06-16",
+      "latestRecordAt": "2020-06-16"
+    },
+    {
+      "dong": "지원2동",
+      "address": "용산동 735",
+      "latitude": 35.118712,
+      "longitude": 126.925912,
+      "managementIds": [
+        "지원2동-5"
+      ],
+      "installedAt": "2020-06-16",
+      "latestRecordAt": "2020-06-16"
+    },
+    {
+      "dong": "지원2동",
+      "address": "월남동 157",
+      "latitude": 35.116432,
+      "longitude": 126.944812,
+      "managementIds": [
+        "지원2동-18"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "지원2동",
+      "address": "월남동 177",
+      "latitude": 35.115812,
+      "longitude": 126.943812,
+      "managementIds": [
+        "지원2동-2"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "지원2동",
+      "address": "월남동 233-11",
+      "latitude": 35.114123,
+      "longitude": 126.942145,
+      "managementIds": [
+        "지원2동-1"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "충장동",
+      "address": "금남로1가 12-2",
+      "latitude": 35.148123,
+      "longitude": 126.919782,
+      "managementIds": [
+        "충장동-3"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "충장동",
+      "address": "금남로1가 42",
+      "latitude": 35.147891,
+      "longitude": 126.919213,
+      "managementIds": [
+        "충장동-9"
+      ],
+      "installedAt": "2022-09-01",
+      "latestRecordAt": "2022-09-01"
+    },
+    {
+      "dong": "충장동",
+      "address": "금남로5가 113",
+      "latitude": 35.153123,
+      "longitude": 126.911234,
+      "managementIds": [
+        "충장동-8"
+      ],
+      "installedAt": "2019-05-05",
+      "latestRecordAt": "2019-05-05"
+    },
+    {
+      "dong": "충장동",
+      "address": "대의동 50-4",
+      "latitude": 35.149512,
+      "longitude": 126.921342,
+      "managementIds": [
+        "충장동-5"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "충장동",
+      "address": "대의동 91-1",
+      "latitude": 35.150123,
+      "longitude": 126.920981,
+      "managementIds": [
+        "충장동-6"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "충장동",
+      "address": "대인동 192",
+      "latitude": 35.153912,
+      "longitude": 126.918921,
+      "managementIds": [
+        "충장동-2"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "충장동",
+      "address": "장동 141-3",
+      "latitude": 35.148765,
+      "longitude": 126.921843,
+      "managementIds": [
+        "충장동-4"
+      ],
+      "installedAt": "2019-06-17",
+      "latestRecordAt": "2019-06-17"
+    },
+    {
+      "dong": "충장동",
+      "address": "장동 36-2",
+      "latitude": 35.150432,
+      "longitude": 126.923145,
+      "managementIds": [
+        "충장동-10"
+      ],
+      "installedAt": "2022-09-01",
+      "latestRecordAt": "2022-09-01"
+    },
+    {
+      "dong": "충장동",
+      "address": "충장로4가 29-5",
+      "latitude": 35.148521,
+      "longitude": 126.912345,
+      "managementIds": [
+        "충장동-1"
+      ],
+      "installedAt": "2020-03-27",
+      "latestRecordAt": "2020-03-27"
+    },
+    {
+      "dong": "충장동",
+      "address": "호남동 27-1",
+      "latitude": 35.146821,
+      "longitude": 126.915432,
+      "managementIds": [
+        "충장동-7"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "충장동",
+      "address": "호남동 48",
+      "latitude": 35.145912,
+      "longitude": 126.914872,
+      "managementIds": [
+        "충장동-11"
+      ],
+      "installedAt": "2024-07-23",
+      "latestRecordAt": "2024-07-23"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 10-3",
+      "latitude": 35.141812,
+      "longitude": 126.922145,
+      "managementIds": [
+        "학동-4"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 1025",
+      "latitude": 35.135123,
+      "longitude": 126.930123,
+      "managementIds": [
+        "학동-8"
+      ],
+      "installedAt": "2019-05-05",
+      "latestRecordAt": "2019-05-05"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 115-1",
+      "latitude": 35.138912,
+      "longitude": 126.924123,
+      "managementIds": [
+        "학동-13"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 12-11",
+      "latitude": 35.141521,
+      "longitude": 126.923432,
+      "managementIds": [
+        "학동-1"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 12-2",
+      "latitude": 35.141432,
+      "longitude": 126.923145,
+      "managementIds": [
+        "학동-14"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 26-5",
+      "latitude": 35.140812,
+      "longitude": 126.923872,
+      "managementIds": [
+        "학동-10"
+      ],
+      "installedAt": "2021-07-01",
+      "latestRecordAt": "2021-07-01"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 47-2",
+      "latitude": 35.140123,
+      "longitude": 126.924812,
+      "managementIds": [
+        "학동-2"
+      ],
+      "installedAt": "2018-07-23",
+      "latestRecordAt": "2018-07-23"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 55",
+      "latitude": 35.139821,
+      "longitude": 126.925143,
+      "managementIds": [
+        "학동-3"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 611-3",
+      "latitude": 35.138123,
+      "longitude": 126.926812,
+      "managementIds": [
+        "학동-5"
+      ],
+      "installedAt": "2018-08-29",
+      "latestRecordAt": "2018-08-29"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 658-3",
+      "latitude": 35.137123,
+      "longitude": 126.927812,
+      "managementIds": [
+        "학동-12"
+      ],
+      "installedAt": "2024-07-23",
+      "latestRecordAt": "2024-07-23"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 858-5",
+      "latitude": 35.136712,
+      "longitude": 126.927432,
+      "managementIds": [
+        "학동-11"
+      ],
+      "installedAt": "2021-07-01",
+      "latestRecordAt": "2021-07-01"
+    },
+    {
+      "dong": "학동",
+      "address": "학동 868-2",
+      "latitude": 35.136123,
+      "longitude": 126.928412,
+      "managementIds": [
+        "학동-7"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "학동",
+      "address": "학동649-42",
+      "latitude": 35.137432,
+      "longitude": 126.927145,
+      "managementIds": [
+        "학동-6"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "학동",
+      "address": "학동876-8",
+      "latitude": 35.135812,
+      "longitude": 126.929123,
+      "managementIds": [
+        "학동-9"
+      ],
+      "installedAt": "2021-07-14",
+      "latestRecordAt": "2021-07-14"
+    },
+    {
+      "dong": "학운동",
+      "address": "운림동 649-1",
+      "latitude": 35.129812,
+      "longitude": 126.944123,
+      "managementIds": [
+        "학운동-4"
+      ],
+      "installedAt": "2025-07-11",
+      "latestRecordAt": "2025-07-11"
+    },
+    {
+      "dong": "학운동",
+      "address": "운림동 660-1",
+      "latitude": 35.128912,
+      "longitude": 126.943142,
+      "managementIds": [
+        "학운동-5"
+      ],
+      "installedAt": "2025-08-03",
+      "latestRecordAt": "2025-08-03"
+    },
+    {
+      "dong": "학운동",
+      "address": "운림동 876",
+      "latitude": 35.131234,
+      "longitude": 126.946712,
+      "managementIds": [
+        "학운동-3"
+      ],
+      "installedAt": "2019-05-05",
+      "latestRecordAt": "2019-05-05"
+    },
+    {
+      "dong": "학운동",
+      "address": "운림동 914",
+      "latitude": 35.132412,
+      "longitude": 126.945821,
+      "managementIds": [
+        "학운동-1"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    },
+    {
+      "dong": "학운동",
+      "address": "학동 874-4",
+      "latitude": 35.135432,
+      "longitude": 126.928912,
+      "managementIds": [
+        "학운동-2"
+      ],
+      "installedAt": "2019-07-03",
+      "latestRecordAt": "2019-07-03"
+    }
+  ]
+}

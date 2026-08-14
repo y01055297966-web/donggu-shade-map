@@ -1,0 +1,13 @@
+{
+  "name": "donggu-shade-map",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/fetch-shades.mjs",
+    "check": "node --check scripts/fetch-shades.mjs && node --check public/app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

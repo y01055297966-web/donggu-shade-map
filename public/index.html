@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="광주광역시 동구 무더위 그늘막 위치 지도">
+  <meta name="theme-color" content="#183d36">
+  <title>동구 그늘지도</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&amp;family=Roboto+Mono:wght@500;600&amp;display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQ3ynhtCwQYkMZV0h2gU6R5YQk5QX4=" crossorigin="">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#map">지도 바로가기</a>
+  <header>
+    <a class="brand" href="./"><span>DG</span><strong>동구 그늘지도</strong></a>
+    <p><i aria-hidden="true"></i><span id="data-date">데이터 확인 중</span></p>
+  </header>
+
+  <main>
+    <aside class="sidebar">
+      <section class="intro">
+        <p class="eyebrow">DONG-GU COOLING MAP</p>
+        <h1>햇빛을 피해<br><em>잠시 쉬어가세요.</em></h1>
+        <p>광주 동구의 횡단보도와 교통섬 주변에 설치된 무더위 그늘막을 지도에서 확인할 수 있습니다.</p>
+      </section>
+
+      <section class="summary" aria-label="그늘막 현황">
+        <div><strong id="total-count">-</strong><span>전체 위치</span></div>
+        <div><strong id="visible-count">-</strong><span>검색 결과</span></div>
+        <div><strong id="dong-count">-</strong><span>행정동</span></div>
+      </section>
+
+      <section class="search-panel" aria-label="그늘막 검색">
+        <label for="dong-select">행정동 선택</label>
+        <select id="dong-select" disabled><option value="all">동구 전체</option></select>
+        <label for="address-search">주소 또는 관리번호</label>
+        <input id="address-search" type="search" placeholder="예: 금남로, 학동-3" disabled>
+        <button id="nearest-button" type="button" disabled><span class="target-icon" aria-hidden="true"></span>내 주변 그늘막 찾기</button>
+        <p id="search-status" role="status">위치 데이터를 불러오고 있습니다.</p>
+      </section>
+
+      <section class="results" aria-labelledby="result-title">
+        <div class="results-head"><h2 id="result-title">위치 목록</h2><span>선택하면 지도 이동</span></div>
+        <div id="location-list" class="location-list"><p class="loading">불러오는 중입니다.</p></div>
+      </section>
+    </aside>
+
+    <section class="map-area" aria-label="그늘막 지도">
+      <div class="map-title"><span>GWANGJU</span><strong>DONG-GU</strong></div>
+      <div id="map" role="application" aria-label="광주 동구 그늘막 위치 지도"><p>지도를 불러오는 중입니다.</p></div>
+      <div class="map-legend"><i aria-hidden="true"></i><span>그늘막 위치</span><small>지도를 확대하면 상세 위치를 볼 수 있습니다.</small></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>동일 좌표의 설치·교체 이력은 한 위치로 통합해 표시합니다.</p>
+    <p>출처: <a href="https://www.data.go.kr/data/15103022/fileData.do" target="_blank" rel="noreferrer">광주광역시 동구 그늘막설치현황</a> · 지도 © OpenStreetMap</p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
