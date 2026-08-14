@@ -32,6 +32,7 @@ jobs:
       - name: Check source files
         run: npm run check
       - name: Collect latest shade locations
+        continue-on-error: true
         run: npm run collect
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
